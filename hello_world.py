@@ -1,4 +1,3 @@
-# print("ssss")
 def main():
     print("hello world")
 
